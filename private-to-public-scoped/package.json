@@ -1,6 +1,6 @@
 {
-  "name": "public-unscoped",
-  "version": "1.0.11",
+  "name": "private-to-public-scoped",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "babel": "^6.5.2"
-  }
+  "license": "ISC"
 }
